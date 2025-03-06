@@ -1,14 +1,34 @@
 # 🚀 Yoher Duarte | Full-Stack Developer  
 
-Hi! I'm **Yoher Duarte**, a **Full-Stack Developer** passionate about building **scalable, high-performance applications**. I specialize in **Node.js, Python, and Java**, focusing on **RESTful APIs, microservices, and cloud-native architectures**.  
+Hi! I'm **Yoher Duarte**, a **Full-Stack Developer** passionate about building **scalable, high-performance applications**. I specialize in **JavaScript, TypeScript, Python, and Java**, with experience in **backend, frontend, cloud, DevOps, and data management**.  
 
 ## 🛠 Tech Stack  
-- **Languages:** JavaScript, TypeScript, Python, Java  
-- **Backend:** Node.js (Express.js, NestJS), Spring Boot  
-- **Frontend:** React.js, React Native  
-- **Databases:** MySQL, SQL Server, DynamoDB, Redis  
-- **Cloud & DevOps:** AWS (EC2, RDS, S3, Lambda, API Gateway), Terraform, CI/CD  
-- **Other:** GitHub Actions, Agile methodologies  
+
+### 🔹 Languages  
+JavaScript, TypeScript, Python, Java, PHP, Shell, CSS, HTML  
+
+### 🔹 Backend  
+Node.js, Nest.js, Express, Serverless, Spring Boot, FastAPI, Django  
+
+### 🔹 Frontend  
+React, Next.js, Angular, React Native, NativeScript, Tailwind, D3.js  
+
+### 🔹 Databases & Caching  
+MySQL, SQL Server, MongoDB, DynamoDB, Redis, Memcached, Elasticsearch  
+
+### 🔹 Cloud & DevOps  
+AWS (EC2, ECS, S3, Lambda, API Gateway, DynamoDB, RDS, CloudWatch, SNS, SQS, Route53, VPC, CodePipeline, CodeDeploy)  
+Terraform, CI/CD, GitHub Actions, Jenkins, Bitbucket Pipelines, CodeMagic  
+
+### 🔹 Tools & Other Technologies  
+Jira, Linear, Git, GitHub, Bitbucket, Figma, IBM Watson, Kibana  
+
+### 🔹 Methodologies  
+Scrum, Agile  
+
+### 🌍 Languages  
+- **Spanish:** Native  
+- **English:** B2  
 
 ## 📈 GitHub Stats  
 ![Yoher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=y0h3r&show_icons=true&theme=dark)  
